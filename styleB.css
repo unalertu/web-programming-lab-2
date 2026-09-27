@@ -23,3 +23,9 @@ body {
     bottom: 0;
     margin-right: 0;
 }
+
+.box:hover {
+    color: goldenrod;
+    background-color: yellow;
+    cursor: pointer;
+}
