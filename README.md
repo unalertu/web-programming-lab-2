@@ -1,6 +1,6 @@
 # Web Programming Lab 2
 
-Student: Ertuğrul Ünal  
+Student: Ertuğrul Ünal
 Student Number: 240408016
 
 This project uses one HTML file and two CSS files.
